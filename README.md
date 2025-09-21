@@ -1,7 +1,7 @@
 <!-- Profil README dengan animasi dan efek dinamis -->
 
 <h1 align="center">
-  Hi, I'm Najikhul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  Hi, I'm Najikhul Umam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,mongodb,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,mongodb,git,docker,linux, html, css, c, c++," />
 </p>
 
 ---
