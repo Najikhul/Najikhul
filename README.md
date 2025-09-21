@@ -9,21 +9,23 @@
 ---
 
 ## 🚀 About Me
-I’m a technology enthusiast who loves combining **hardware and software** to build impactful solutions.  
-From microcontrollers to full-stack applications, I enjoy turning ideas into reality.
+## 🚀 About Me
+I’m a maker and programmer who enjoys building projects that connect the **physical world with digital creativity**.  
+From **electronics prototyping** to **full-stack web development**, I love turning ideas into reality.
 
-- 💡 Experienced with **Arduino, ESP32**, and IoT prototyping.  
-- 🛠 Skilled in **C, C++, Python, JavaScript**, and modern frameworks.  
-- 🌐 Interested in **web development**, APIs, and scalable systems.  
-- 🤝 Open to collaboration, research, and innovative projects.  
-- 📚 Lifelong learner who continuously explores emerging technologies.  
+- 💡 **Embedded Systems:** Experienced with **Arduino & ESP32** for IoT and hardware projects.  
+- 🛠 **Programming:** Proficient in **C, C++, Python, and JavaScript** for versatile problem-solving.  
+- 🌐 **Web Development:** Skilled in **HTML, CSS, React, and Node.js** for creating modern web applications.  
+- 🎨 **Design & Visualization:** Enjoy working with **Blender** to bring concepts to life in 3D.  
+- 🤝 **Collaboration:** Open to teamwork, open-source projects, and knowledge sharing.  
+- 📚 **Continuous Learner:** Always exploring new frameworks, tools, and creative ideas.  
+
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,arduino,c,cpp,python,javascript,html,css,react,nodejs,blender" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg" height="45" alt="ESP32"/>
 </p>
 
 ---
