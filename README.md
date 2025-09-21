@@ -31,7 +31,8 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Najikhul&show_icons=true&theme=tokyonight" height="180"/> <b>
+  <img src="https://github-readme-stats.vercel.app/api?username=Najikhul&show_icons=true&theme=tokyonight" height="180"/>
+  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najikhul&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
