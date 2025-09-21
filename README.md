@@ -1,11 +1,11 @@
-<!-- Profil README dengan animasi dan efek dinamis -->
+<!-- Dynamic README profile with animation and clean, aligned Tech Stack logos -->
 
 <h2 align="center">
-  Hi, I'm M. Najikhul Umam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  Hi, I'm M. Najikhul Umam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+to+solve+problems+with+code.;Let%E2%80%99s+build+something+amazing%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+hardware+and+web+creativity.;From+circuits+to+cloud%2C+I+code+it+all!;Let%E2%80%99s+create+something+awesome%21" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,19 +18,21 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Personal projects & open-source**
-- 🌱 I’m currently learning: **AI, Cloud Computing, Backend Development**
-- 👯 I’m open for collaboration: **Exciting projects & hackathons**
-- 🧠 Always curious about: **Automation, Data Science, new tech trends**
-- 💬 Ask me about: **Anything! I love sharing and helping**
-- ⚡ Fun fact: **I drink coffee like it's water ☕**
+Hi! I'm Najikhul, a passionate technologist who loves to blend hardware with software and turn ideas into reality.
+
+- 💡 **Maker & Programmer:** Experienced in building projects from microcontrollers (Arduino, C, C++) to interactive web applications (HTML, CSS, JavaScript, React, Node.js, Python).
+- 🛠 **Hands-on Techie:** Love tinkering with hardware, prototyping IoT systems, and visualizing ideas in Blender.
+- 🌐 **Web Explorer:** Always curious about the latest web development trends and enjoy crafting modern full-stack applications.
+- 🤝 **Collaborator:** Open to collaborate, discuss, or just have a virtual coffee chat about technology.
+- 🚀 **Lifelong Learner:** Never stop learning—from algorithms and 3D design to creating efficient APIs.
+- ☕ **Fun Fact:** My productivity increases 200% after a cup of coffee!
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,mongodb,git,docker,linux,c,css,html,cpp" />
+  <img src="https://skillicons.dev/icons?i=github,arduino,c,cpp,blender,html,css,javascript,python,nodejs,react" height="45" />
 </p>
 
 ---
@@ -66,10 +68,10 @@
 ## 📫 Connect with Me!
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-333?style=flat&logo=gmail"></a>
+  <a href="mailto:mnajikhul16@gmail.com"><img src="https://img.shields.io/badge/-Email-333?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter"></a>
-  <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram"></a>
+  <a href="https://instagram.com/oemam.mhmmd_"><img src="https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram"></a>
 </p>
 
 ---
