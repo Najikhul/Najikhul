@@ -1,7 +1,7 @@
 # 👋 Halo, saya M. Najikhul Umam
 
 Saya seorang mahasiswa Fisika di UIN Maulana Malik Ibrahim Malang, dengan minat besar di bidang **IoT, Robotika, Machine Learning, dan Game Development**.  
-Saat ini saya sedang mengerjakan berbagai proyek DIY dan riset kecil untuk memperdalam pemrograman, elektronika, dan sistem AI.
+Saat ini saya sedang mengerjakan berbagai proyek DIY dan riset kecil untuk memperdalam pemrograman, elektronika, dan sistem AI. 
 
 ---
 
