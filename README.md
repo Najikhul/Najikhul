@@ -1,10 +1,15 @@
 <h2 align="center">
   Hi, I'm M. Najikhul Umam 👋
 </h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=printf(%22Hello%2C+World!%22);console.log(%22Welcome+to+my+GitHub!%22);print(%22Let's+build+something+awesome!%22)" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=printf(%22Najikhul+Umam,+Here!%22);console.log(%22Welcome+to+my+GitHub!%22);print(%22Let's+build+something+awesome!%22)" alt="Typing Animation" />
+</p>
+
+
+
 
 ---
 
@@ -35,10 +40,6 @@ From **electronics prototyping** to **full-stack web development**, I love turni
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najikhul&layout=compact&theme=radical" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ---
