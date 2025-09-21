@@ -11,7 +11,7 @@ Saat ini saya sedang mengerjakan berbagai proyek DIY dan riset kecil untuk mempe
 - 🎯 Target: Membangun **robot AI** dan membagikan open-source project untuk mahasiswa & maker  
 - 💬 Tertarik diskusi tentang: IoT, Embedded Systems, AI, Game Assets,  
 - 📫 Kontak: [LinkedIn](#) | [Website](#) | [Email](mailto:mnajikhul16@gmail.com)
-
+ 
 ---
 
 ## 🛠️ Bahasa & Tools
