@@ -1,8 +1,8 @@
 <!-- Profil README dengan animasi dan efek dinamis -->
 
-<h1 align="center">
-  Hi, I'm Najikhul Umam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-</h1>
+<h2 align="center">
+  Hi, I'm M. Najikhul Umam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+to+solve+problems+with+code.;Let%E2%80%99s+build+something+amazing%21" alt="Typing SVG" />
