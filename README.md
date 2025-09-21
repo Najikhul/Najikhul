@@ -11,7 +11,7 @@
 - 🔭 Project saat ini: **Robot autonomous berbasis machine learning**  
 - 🎯 Target: Membangun **robot AI** dan membagikan open-source project untuk mahasiswa & maker  
 - 💬 Tertarik diskusi tentang: IoT, Embedded Systems, AI, Game Assets  
-- 📫 Kontak: [LinkedIn](#) | [Website](www.facebook.com) | [Email](mailto:mnajikhul16@gmail.com)
+- 📫 Kontak: [LinkedIn](#) | [Website](#) | [Email](mailto:mnajikhul16@gmail.com)
 
 --- 
 
@@ -31,8 +31,8 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Najikhul&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najikhul&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
