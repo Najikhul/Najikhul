@@ -28,7 +28,7 @@ Saat ini saya sedang mengerjakan berbagai proyek DIY dan riset kecil untuk mempe
 
 ## 📊 Statistik GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Najikhul&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najikhul&layout=compact&theme=tokyonight)
 
 ---
 
