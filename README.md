@@ -11,7 +11,7 @@
 - 🔭 Project saat ini: **Robot autonomous berbasis machine learning**  
 - 🎯 Target: Membangun **robot AI** dan membagikan open-source project untuk mahasiswa & maker  
 - 💬 Tertarik diskusi tentang: IoT, Embedded Systems, AI, Game Assets  
-- 📫 Kontak: [LinkedIn](#) | [Website](#) | [Email](mailto:youremail@example.com)
+- 📫 Kontak: [LinkedIn](#) | [Website](www.facebook.com) | [Email](mailto:mnajikhul16@gmail.com)
 
 --- 
 
