@@ -1,7 +1,7 @@
 <!-- Banner animasi -->
-<h1 align="center">👋 Halo, saya Najikhul</h1>
+<h1 align="center">👋 Halo, saya M. Najikhul Umam</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1F75C8&center=true&vCenter=true&width=600&lines=Mahasiswa+Fisika+%7C+IoT+%26+Robotics+Enthusiast;Belajar+AI%2C+Embedded+Systems%2C+%26+Game+Dev;Open+Source+Maker+dan+DIY+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1F75C8&center=true&vCenter=true&width=600&lines=Mahasiswa+Fisika+%7C+IoT+%26+Robotics+Enthusiast;Belajar+AI%2C+Embedded+Systems%2C+%26+Game+Dev;Open+Source+Maker+dan+DIY+Projects" alt="Typing SVG" />
 </p>
 
 ---
