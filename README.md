@@ -13,7 +13,7 @@
 - 💬 Tertarik diskusi tentang: IoT, Embedded Systems, AI, Game Assets  
 - 📫 Kontak: [LinkedIn](#) | [Website](#) | [Email](mailto:youremail@example.com)
 
----
+--- 
 
 ## 🛠️ Bahasa & Tools
 <p align="center">
