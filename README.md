@@ -9,7 +9,6 @@
 ---
 
 ## 🚀 About Me
-## 🚀 About Me
 I’m a maker and programmer who enjoys building projects that connect the **physical world with digital creativity**.  
 From **electronics prototyping** to **full-stack web development**, I love turning ideas into reality.
 
