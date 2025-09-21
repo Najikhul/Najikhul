@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=printf(%22Hello%2C+World!%22);console.log(%22Welcome+to+my+GitHub!%22);print(%22Let's+build+something+awesome!%22)" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,6 @@ From **electronics prototyping** to **full-stack web development**, I love turni
 - 🎨 **Design & Visualization:** Enjoy working with **Blender** to bring concepts to life in 3D.  
 - 🤝 **Collaboration:** Open to teamwork, open-source projects, and knowledge sharing.  
 - 📚 **Continuous Learner:** Always exploring new frameworks, tools, and creative ideas.  
-
 
 ---
 
