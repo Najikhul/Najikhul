@@ -6,11 +6,11 @@ Saat ini saya sedang mengerjakan berbagai proyek DIY dan riset kecil untuk mempe
 ---
 
 ## 🚀 Tentang Saya
-- 🌱 Sedang belajar: **ESP32 + LoRa**, **RISC-V**, **Blender 3D**, dan **AI Robotics**  
+- 🌱 Sedang belajar: **ESP32 + LoRa**, dan **AI Robotics**  
 - 🔭 Project saat ini: **Robot autonomous berbasis machine learning**  
 - 🎯 Target: Membangun **robot AI** dan membagikan open-source project untuk mahasiswa & maker  
-- 💬 Tertarik diskusi tentang: IoT, Embedded Systems, AI, Game Assets  
-- 📫 Kontak: [LinkedIn](#) | [Website](#) | [Email](mailto:youremail@example.com)
+- 💬 Tertarik diskusi tentang: IoT, Embedded Systems, AI, Game Assets,  
+- 📫 Kontak: [LinkedIn](#) | [Website](#) | [Email](mailto:mnajikhul16@gmail.com)
 
 ---
 
